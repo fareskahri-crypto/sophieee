@@ -1,0 +1,16 @@
+# Slay Clay
+
+Slay Clay is a handmade brand creating small customizable clay objects and accessories.
+
+## Primary purpose
+Visitors can discover creations, browse product categories, and submit a custom request.
+
+## Custom requests
+The site collects a product category, name, reference image preview, and idea in the browser. Requests are handed off to WhatsApp with a prefilled text message. Static GitHub Pages cannot directly attach a local browser file to WhatsApp; the visitor is instructed to attach the reference image in the WhatsApp chat.
+
+## Brand style
+Soft lavender and purple, cute handmade illustration, subtle paper texture, glossy tactile clay, soft dreamy slightly retro mood.
+
+## Contact
+WhatsApp: supplied separately by the site owner.
+Instagram: supplied separately by the site owner.
