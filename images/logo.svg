@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 90" role="img" aria-labelledby="title desc">
+<title id="title">Slay Clay</title><desc id="desc">Slay Clay wordmark placeholder</desc>
+<g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+<path stroke-width="5" d="M18 57c22 20 38-4 59 8 17 10 27 4 39-8"/>
+</g>
+<text x="24" y="48" font-family="Georgia,serif" font-size="35" font-weight="700" fill="currentColor">Slay</text>
+<text x="139" y="48" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="currentColor">CLAY</text>
+</svg>
