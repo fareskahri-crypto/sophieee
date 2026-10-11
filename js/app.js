@@ -2,7 +2,7 @@
 (() => {
   "use strict";
 
-  const WA_NUMBER = "YOUR_WHATSAPP_NUMBER"; // Replace with digits only, including country code.
+  const WA_NUMBER = "21692610932"; // Replace with digits only, including country code.
   const $ = (s, root=document) => root.querySelector(s);
   const $$ = (s, root=document) => [...root.querySelectorAll(s)];
 
